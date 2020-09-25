@@ -2,9 +2,9 @@
 基于.net core，Vue的前后端分离 -- 简易投票系统。
 
 # 技术栈
-前端：Vue + ElementUI
-后端：.net core + ADO.NET
-数据库：Microsoft SQL Server
+* 前端：Vue + ElementUI
+* 后端：.net core + ADO.NET
+* 数据库：Microsoft SQL Server
 
 # 注意事项
 使用时请手动创建管理员用户，用户名：admin,密码：21232f297a57a5a743894a0e4a801fc3(密码为加密后的admin)
