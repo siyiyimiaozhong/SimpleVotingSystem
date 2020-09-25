@@ -32,6 +32,7 @@
 ![image](https://github.com/siyiyimiaozhong/SimpleVotingSystem/blob/master/img/voteEdit.png)
 
 投票详情
+
 ![image](https://github.com/siyiyimiaozhong/SimpleVotingSystem/blob/master/img/voteDetails.png)
 
 投票管理
